@@ -1,7 +1,12 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 77cbac6aee09fd4a043b98267f5651d0d83addad
 body {
     font-family: 'Arial', sans-serif;
     color: #333;
 }
+<<<<<<< HEAD
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -36,6 +41,8 @@ body {
     font-size: 14px;
     cursor: pointer;
 }
+=======
+>>>>>>> 77cbac6aee09fd4a043b98267f5651d0d83addad
 
 header {
     padding: 20px 0;
@@ -117,8 +124,13 @@ h5 {
 }
 
 .price-section {
+<<<<<<< HEAD
     /* background-color: #f6f9ff; */
     /* padding: 80px 0; */
+=======
+    background-color: #f6f9ff;
+    padding: 80px 0;
+>>>>>>> 77cbac6aee09fd4a043b98267f5651d0d83addad
     text-align: center;
 }
 
@@ -129,17 +141,28 @@ h5 {
 .price-box {
     margin: 40px auto;
     max-width: 400px;
+<<<<<<< HEAD
     /* background-color: #fff; */
     border-radius: 8px;
     padding: 30px;
     /* box-shadow: 0 5px 20px rgba(0,0,0,0.05); */
+=======
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 30px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+>>>>>>> 77cbac6aee09fd4a043b98267f5651d0d83addad
 }
 
 .price {
     font-size: 48px;
     font-weight: 700;
     color: #2f64ef;
+<<<<<<< HEAD
     margin: 20px 0; 
+=======
+    margin: 20px 0;
+>>>>>>> 77cbac6aee09fd4a043b98267f5651d0d83addad
 }
 
 .btn-primary {
@@ -291,4 +314,8 @@ footer {
     .feature-item {
         text-align: center;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 77cbac6aee09fd4a043b98267f5651d0d83addad
